@@ -1,3 +1,3 @@
 var recipes = new Object ({})
 
-var Object = {
+var obj = { prop: 1}
